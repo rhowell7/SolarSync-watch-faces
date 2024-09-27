@@ -1,6 +1,6 @@
-# SolarSync-watch-faces
+# SolarSync Smart-Watch Faces
 
-SolarSync combines essential daily stats with natural cycles to help you stay informed throughout your day. These watch faces display sunrise and sunset times, moon phases, and the sun’s position, giving you a sense of how much daylight remains. Additionally, SolarSync displays your steps, heart rate, weather, remaining battery, and more — all in a clean and battery-efficient design.
+SolarSync smart-watch faces combine essential daily stats with natural cycles to help you stay informed throughout your day. These watch faces display sunrise and sunset times, moon phases, and the sun’s position, giving you a sense of how much daylight remains. Additionally, SolarSync displays your steps, heart rate, weather, remaining battery, and more — all in a clean and battery-efficient design.
 
 
 ## Description
