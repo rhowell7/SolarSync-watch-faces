@@ -25,22 +25,12 @@ SolarSync works on both round and square watch faces for a seamless experience o
 
 ## SolarSync-Purple Preview
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <h3>Active:</h4>
-      <a href="https://www.facer.io/watchface/kyv3b40vy1">
-        <img src="assets/purple-active.png" width="300" />
-      </a>
-  </div>
-  <div>
-    <h3>Dim / Background:</h4>
-      <a href="https://www.facer.io/watchface/kyv3b40vy1">
-        <img src="assets/purple-dim.png" width="300" />
-      </a>
-  </div>
-</div>
+| Active | Dim / Background |
+|:---:|:---:|
+| ![SolarSync Purple Active](assets/purple-active.png) | ![SolarSync Purple Dim](assets/purple-dim.png) |
 
-### Try SolarSync-Purple on [Facer](https://www.facer.io/watchface/kyv3b40vy1):
+
+## Try SolarSync-Purple on [Facer](https://www.facer.io/watchface/kyv3b40vy1):
 
 <p align="center">
   <a href="https://www.facer.io/watchface/kyv3b40vy1">
@@ -52,22 +42,12 @@ SolarSync works on both round and square watch faces for a seamless experience o
 
 ## SolarSync-PinkPurpleBlue Preview
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <h3>Active:</h4>
-      <a href="https://www.facer.io/watchface/WGaLd8kY6B">
-        <img src="assets/pride-active.png" width="300" />
-      </a>
-  </div>
-  <div>
-    <h3>Dim / Background:</h4>
-      <a href="https://www.facer.io/watchface/WGaLd8kY6B">
-        <img src="assets/pride-dim.png" width="300" />
-      </a>
-  </div>
-</div>
+| Active | Dim / Background |
+|:---:|:---:|
+| ![SolarSync PinkPurpleBlue Active](assets/pride-active.png) | ![SolarSync PinkPurpleBlue Dim](assets/pride-dim.png) |
 
-### Try SolarSync-PinkPurpleBlue on [Facer](https://www.facer.io/watchface/WGaLd8kY6B):
+
+## Try SolarSync-PinkPurpleBlue on [Facer](https://www.facer.io/watchface/WGaLd8kY6B):
 
 <p align="center">
   <a href="https://www.facer.io/watchface/WGaLd8kY6B">
