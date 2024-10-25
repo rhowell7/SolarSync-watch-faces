@@ -1,5 +1,7 @@
 # SolarSync Smart-Watch Faces
 
+I spent a fair amount of time looking for the perfect watch face for my smartwatch. There were many that I tried, and many features that I liked, but the faces that had ALL the features I loved were not free or open source. So, I created my own! I hope you enjoy these, and feel free to make your own mods on [Facer.io](https://www.facer.io/watchface/WGaLd8kY6B)! 😊
+
 SolarSync smart-watch faces combine essential daily stats with natural cycles to help you stay informed throughout your day. These watch faces display sunrise and sunset times, moon phases, and the sun’s position, giving you a sense of how much daylight remains. Additionally, SolarSync displays your steps, heart rate, weather, remaining battery, and more — all in a clean and battery-efficient design.
 
 
